@@ -1,0 +1,51 @@
+{
+  "background_color": "#ffffff",
+  "description": "Patrik Proshop Bretagne : windsurf et wingfoil. Planches, foils, ailes, \r\nmâts, wishbones. Coaching, événements, et conseils d’experts.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Patrik Pro Shop",
+  "orientation": "any",
+  "scope": "https://www.patrikproshopbretagne.fr/",
+  "short_name": "Patrik Pro Shop",
+  "start_url": "https://www.patrikproshopbretagne.fr/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/664f360e2bef336f7edfbe6e/73f28c25-0901-4215-98bb-c7a5a57106da/favicon.ico?format=100w",
+      "type": "image/png",
+      "sizes": "100x100",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 100,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "http://static1.squarespace.com/static/664f360e2bef336f7edfbe6e/t/666beee09d48e4142667aa49/1718349537025/Logo+Patrik+Pro+Shop+Sans+Fond.png?format=1500w",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://www.patrikproshopbretagne.fr/favicon.ico",
+      "type": "image/png",
+      "sizes": "100x100",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 100,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
